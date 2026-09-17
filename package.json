@@ -1,0 +1,35 @@
+{
+  "name": "jbm-bu5-tooling-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@types/nodemailer": "^8.0.0",
+    "@types/three": "latest",
+    "clsx": "latest",
+    "framer-motion": "latest",
+    "gsap": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "nodemailer": "^8.0.10",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.6",
+    "postcss": "latest",
+    "tailwindcss": "^3.4.17",
+    "typescript": "latest"
+  }
+}
