@@ -12,8 +12,8 @@ export const navItems = [
 ];
 
 export const stats = [
-  { value: 500, suffix: "+", label: "Fixtures Delivered" },
-  { value: 100, suffix: "+", label: "Tooling Projects" },
+  { value: 10000, suffix: "+", label: "Fixtures Delivered" },
+  { value: 30000, suffix: "+", label: "Tooling Projects" },
   { value: 6, suffix: "x", label: "Simulation Domains" },
   { value: 24, suffix: "/7", label: "Engineering Readiness" },
 ];
